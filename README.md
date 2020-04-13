@@ -1,6 +1,6 @@
 # Debug Box
 
-> Docker container for with debugging tools 
+> Docker container with debugging tools 
 
 ## Usage
 
